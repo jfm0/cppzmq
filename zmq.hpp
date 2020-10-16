@@ -29,6 +29,7 @@
 #ifdef _WIN32
 #ifndef NOMINMAX
 #define NOMINMAX
+#include <winsock2.h>
 #endif
 #endif
 
